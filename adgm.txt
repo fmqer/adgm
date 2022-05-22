@@ -42,6 +42,12 @@
 ||videopic.bdstatic.com^
 ||t9.baidu.com^'
 ||pics3.baidu.com^
+#我的世界
+||mc.163.com^
+||game.163.com^
+||mc.res.netease.com^
+||gdl.netease.com^
+||adl.netease.com^
 ##漫画
 ||h2mbd.baidu.com^
 ||hm.baidu.com^
