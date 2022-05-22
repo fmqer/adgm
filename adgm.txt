@@ -1,3 +1,4 @@
+#游戏
 ||pvp.qq.com^
 ||cloud.tgpa.qq.com^
 ||ip6.ssl.msdk.qq.com^
@@ -35,8 +36,6 @@
 ||sdk.xyapi.game.qq.com^
 ||game.qq.com^
 ||apps.game.qq.com^
-||360.cn^
-||winrar.com^
 ||pvp.qq.com^
 ||game.gtimg.cn^
 ||lewan.baidu.com^
@@ -44,3 +43,16 @@
 ||videopic.bdstatic.com^
 ||t9.baidu.com^'
 ||pics3.baidu.com^
+#漫画
+||ackcdn.net^
+||ideliv.net^
+||fikri-ayo.com^
+||img.cdn.house^
+||criteo.com^
+||pchome.com.tw^
+||adondemand.com^
+||lookit.tw^
+||aralego.com^
+||holmesmind.com^
+#垃圾
+||360.cn^
