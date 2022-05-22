@@ -39,11 +39,12 @@
 ||pvp.qq.com^
 ||game.gtimg.cn^
 ||lewan.baidu.com^
-||h2mbd.baidu.com^
 ||videopic.bdstatic.com^
 ||t9.baidu.com^'
 ||pics3.baidu.com^
 #漫画
+||h2mbd.baidu.com^
+||hm.baidu.com^
 ||ackcdn.net^
 ||ideliv.net^
 ||fikri-ayo.com^
