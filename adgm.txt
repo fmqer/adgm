@@ -644,6 +644,10 @@
 #蜻蜓FM
 ||qingting.fm^
 ||qtfm.cn^
+#WINRAR
+||Winrar.com^
+||Winrar.com.cn^
+||Winrar.cn^
 #垃圾--------------------------------------------
 ||360.cn^
 ||360.com^
