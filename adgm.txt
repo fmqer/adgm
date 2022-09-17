@@ -112,7 +112,6 @@
 ||dig.bdurl.net^
 ||pc-api.300624.com^
 ||lv-pc-api.ulikecam.com^
-||inappcheck.itunes.apple.com^
 ||api.unipay.qq.com^
 ||priv.igame.qq.com^
 ||img.ssl.msdk.qq.com^
