@@ -91,6 +91,7 @@
 ||yxdown.com^
 ||yxdimg.com^
 #王者农药
+||sj.qq.com^
 ||pvp.qq.com^
 ||cloud.tgpa.qq.com^
 ||ip6.ssl.msdk.qq.com^
@@ -650,3 +651,10 @@
 ||360.cn^
 ||360.com^
 ||qhimg.com^
+#带带电竞
+||daidaicp.com^
+#逆光时代
+||wmsy.mobi^
+||ng8866.com^
+#心悦俱乐部
+||xinyue.qq.com^
