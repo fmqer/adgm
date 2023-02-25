@@ -99,9 +99,9 @@
 ||cloudctrl.gcloud.qq.com^
 ||guid.tpns.sh.tencent.com^
 ||vv.video.qq.com^
-||stat.tpns.sh.tencent.com
-||mazu.m.qq.com
-||dlied5.qq.com
+||stat.tpns.sh.tencent.com^
+||mazu.m.qq.com^
+||dlied5.qq.com^
 ||kohcloud.tgpa.qq.com^
 ||down.anticheatexpert.com^
 ||jiazhang.qq.com^
@@ -131,7 +131,7 @@
 ||game.gtimg.cn^
 ||lewan.baidu.com^
 ||videopic.bdstatic.com^
-||t9.baidu.com^'
+||t9.baidu.com^
 ||pics3.baidu.com^
 #我的世界
 ||mc.163.com^
@@ -463,7 +463,7 @@
 ||venetrigni.com^
 ||sacredperpetratorbasketball.com^
 ||sheeroop.com^
-||jads.co^
+||jads.com^
 #DMZJ动漫之家官网：https://manhua.dmzj.com
 ||ieeod0.com^
 ||sdqoi2d.com^
@@ -552,7 +552,7 @@
 #SF漫画
 ||sfacg.com^
 #bilibili漫画
-||manga.bilibili.com
+||manga.bilibili.com^
 #4399动漫
 ||4399dmw.com^
 #阴阳师漫画屋
