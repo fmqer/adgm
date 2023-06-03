@@ -3,3 +3,5 @@
 @@||id6.me^$important
 @@||icloud.com^$important
 @@||ks.wjx.top^$important
+@@||github.com^
+@@||githubusercontent.com^
