@@ -9,3 +9,4 @@
 @@||fortinet.com^
 @@||fortinet.net^
 @@||sophos.com^
+@@||fortiguard.net^
