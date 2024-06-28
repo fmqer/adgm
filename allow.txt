@@ -11,3 +11,5 @@
 @@||sophos.com^
 @@||fortiguard.net^
 @@||fortiguard.com^
+@@||windowsupdate.com^
+@@||microsoft.com^
