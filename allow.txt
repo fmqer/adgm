@@ -13,3 +13,15 @@
 @@||fortiguard.com^
 @@||windowsupdate.com^
 @@||microsoft.com^
+@@||dingtalk.com^
+@@||weixin.qq.com^
+@@||weixin.com^
+@@||taobao.com^
+@@||apple.com^
+@@||alicdn.com^
+@@||alipay.com^
+@@||icloud.com.cn^
+@@||alibaba.com^
+@@||aliyun.com^
+@@||alibabachengdun.com^
+@@||alipayobjects.com^
