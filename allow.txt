@@ -25,3 +25,4 @@
 @@||aliyun.com^
 @@||alibabachengdun.com^
 @@||alipayobjects.com^
+@@||panabit.com^
