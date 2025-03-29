@@ -47,3 +47,4 @@
 @@||microsoftonline.com^
 @@||xiaomi.com^$important
 @@||vivo.com.cn^
+@@||meituan.com^
