@@ -2,5 +2,9 @@
 链接地址
 阻止列表；
 https://raw.githubusercontent.com/fmqer/adgm/master/adgm.txt
+
 允许列表;
 https://raw.githubusercontent.com/fmqer/adgm/master/allow.txt
+
+#FortiGate DNS 过滤允许域名
+https://raw.githubusercontent.com/fmqer/adgm/master/fortigateallow.txt
