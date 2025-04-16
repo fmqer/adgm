@@ -55,3 +55,6 @@ tencent-cloud.net
 bytegecko.com
 mi.com
 qq.com
+mijia.tech
+oray.com
+jss.com.cn
