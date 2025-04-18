@@ -48,3 +48,4 @@
 @@||xiaomi.com^$important
 @@||vivo.com.cn^
 @@||meituan.com^
+@@||51cto.com^
