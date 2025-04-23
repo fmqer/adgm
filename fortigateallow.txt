@@ -62,3 +62,5 @@ jss.com.cn
 banxiaoer.com
 wxgateway.com
 cloudsecsase.com
+microsoft.com
+msn.cn
