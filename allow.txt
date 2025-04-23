@@ -49,3 +49,5 @@
 @@||vivo.com.cn^
 @@||meituan.com^
 @@||51cto.com^
+@@||microsoft.com^
+@@||msn.cn^
