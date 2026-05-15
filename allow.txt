@@ -54,4 +54,6 @@
 @@||jpush.cn^
 @@||17zuoye.cn^
 @@||17zuoye.com^
+@@||xhome.local^
+@@||hotfixtools.local^
 
