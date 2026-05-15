@@ -51,8 +51,6 @@
 @@||51cto.com^
 @@||microsoft.com^
 @@||msn.cn^
-@@||apple.com^
-@@||gov.cn^
 @@||jpush.cn^
 @@||17zuoye.cn^
 @@||17zuoye.com^
