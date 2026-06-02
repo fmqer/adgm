@@ -1,3 +1,4 @@
+@@||Microsoft.com^
 ||sfdown.360safe.com^
 ||cloud.safe.360.cn^
 ||uapi.mp.360.cn^
