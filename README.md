@@ -11,3 +11,6 @@ https://raw.githubusercontent.com/fmqer/adgm/master/fortigateallow.txt
 
 #FortiGate 阻止垃圾邮件IP地址
 https://raw.githubusercontent.com/fmqer/adgm/master/spamail.txt
+
+#阻止360
+https://raw.githubusercontent.com/fmqer/adgm/master/deny360.txt
