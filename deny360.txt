@@ -6,7 +6,8 @@
 ||s.f.360.cn^
 ||uapi.mp.360.cn^
 ||puv.tt.browser.360.cn^
-||360game.360.cn.360-game.net^
+||360-game.net^
+||360game.360.cn.^
 ||d.browser.360.cn^
 ||dd.wg.360-api.cn^
 ||s.360.cn^
