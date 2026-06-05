@@ -13,6 +13,6 @@
 ||sfdown.360safe.com.wsdvs.com^
 ||cloud.safe.360.cn^
 ||f.qh-lb.com^
-||app.huabao.360.cn^
+||huabao.360.cn^
 ||d.browser.360.cn^
 ||dd.browser.360.cn^
