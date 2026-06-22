@@ -55,6 +55,7 @@
 @@||17zuoye.cn^
 @@||17zuoye.com^
 @@||xhome.local^
+@@||dns.weixin.qq.com.cn^
 @@||hotfixtools.local^
 @@||zerotier.com^
 @@||doh.pub^
