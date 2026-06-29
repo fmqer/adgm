@@ -60,3 +60,5 @@
 @@||zerotier.com^
 @@||doh.pub^
 @@||dot.pub^
+@@||edu.cn^
+@@||chsi.com.cn^
