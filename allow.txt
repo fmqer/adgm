@@ -62,3 +62,4 @@
 @@||dot.pub^
 @@||edu.cn^
 @@||chsi.com.cn^
+@@||dnspod.cn^
