@@ -68,3 +68,4 @@
 @@||snowflake.qq.com^
 @@||log.tbs.qq.com^
 @@||config-api-prod.tclai.top^
+@@||dualstack‑logs.amap.com^
