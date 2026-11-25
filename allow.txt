@@ -63,4 +63,7 @@
 @@||edu.cn^
 @@||chsi.com.cn^
 @@||dnspod.cn^
-@@||dnspod.cn^
+@@||galileotelemetry.tencent.com^
+@@||dns.jd.com^
+@@||snowflake.qq.com^
+@@||log.tbs.qq.com^
