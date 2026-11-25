@@ -67,3 +67,4 @@
 @@||dns.jd.com^
 @@||snowflake.qq.com^
 @@||log.tbs.qq.com^
+@@||config-api-prod.tclai.top^
